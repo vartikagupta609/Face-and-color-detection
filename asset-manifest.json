@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Face-and-color-detection/static/css/main.953de954.chunk.css",
+    "main.js": "/Face-and-color-detection/static/js/main.dce95607.chunk.js",
+    "main.js.map": "/Face-and-color-detection/static/js/main.dce95607.chunk.js.map",
+    "runtime-main.js": "/Face-and-color-detection/static/js/runtime-main.a66bda90.js",
+    "runtime-main.js.map": "/Face-and-color-detection/static/js/runtime-main.a66bda90.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/Face-and-color-detection/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.98d34516.chunk.js": "/Face-and-color-detection/static/js/2.98d34516.chunk.js",
+    "static/js/2.98d34516.chunk.js.map": "/Face-and-color-detection/static/js/2.98d34516.chunk.js.map",
+    "static/js/3.bb21e966.chunk.js": "/Face-and-color-detection/static/js/3.bb21e966.chunk.js",
+    "static/js/3.bb21e966.chunk.js.map": "/Face-and-color-detection/static/js/3.bb21e966.chunk.js.map",
+    "index.html": "/Face-and-color-detection/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/Face-and-color-detection/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.953de954.chunk.css.map": "/Face-and-color-detection/static/css/main.953de954.chunk.css.map",
+    "static/js/2.98d34516.chunk.js.LICENSE.txt": "/Face-and-color-detection/static/js/2.98d34516.chunk.js.LICENSE.txt",
+    "static/media/ffaceimg.58debd18.jpg": "/Face-and-color-detection/static/media/ffaceimg.58debd18.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a66bda90.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.98d34516.chunk.js",
+    "static/css/main.953de954.chunk.css",
+    "static/js/main.dce95607.chunk.js"
+  ]
+}
