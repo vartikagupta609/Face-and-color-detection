@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Face-and-color-detection/static/css/main.953de954.chunk.css",
-    "main.js": "/Face-and-color-detection/static/js/main.dce95607.chunk.js",
-    "main.js.map": "/Face-and-color-detection/static/js/main.dce95607.chunk.js.map",
+    "main.js": "/Face-and-color-detection/static/js/main.0dc9d51b.chunk.js",
+    "main.js.map": "/Face-and-color-detection/static/js/main.0dc9d51b.chunk.js.map",
     "runtime-main.js": "/Face-and-color-detection/static/js/runtime-main.a66bda90.js",
     "runtime-main.js.map": "/Face-and-color-detection/static/js/runtime-main.a66bda90.js.map",
     "static/css/2.c1f4f5f4.chunk.css": "/Face-and-color-detection/static/css/2.c1f4f5f4.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.c1f4f5f4.chunk.css",
     "static/js/2.98d34516.chunk.js",
     "static/css/main.953de954.chunk.css",
-    "static/js/main.dce95607.chunk.js"
+    "static/js/main.0dc9d51b.chunk.js"
   ]
 }
