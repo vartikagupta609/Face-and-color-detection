@@ -20,7 +20,7 @@ function Mainrouter() {
           <Route path='/detectface' exact component={App}/>
           <Route path='/detectfoodname' exact component={Appfood}/>
           <Route path='/detectcolour' exact component={Appcolor}/>
-          <Redirect from='/' exact to='/detectface' />
+          <Redirect to='/detectface' />
       </Switch>
     </div>
   );
